@@ -49,3 +49,6 @@ Clone the repository to your local machine or server:
 git clone https://github.com/yourusername/dino-gallery.git
 cd dino-gallery
 
+```
+
+# sorry i'll finish this eventually and upload legit code once i dissable my ssl certs 
